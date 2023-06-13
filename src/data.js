@@ -27,12 +27,12 @@ export const data = [
         id: 5,
         name: 'Image File',
         type: 'image',
-        path: "/file-server/image-2.jpeg"
+        path: "/file-server/image-2.jpg"
     },
     {
         id: 6,
         name: 'Image File',
         type: 'image',
-        path: "/file-server/image-3.jpeg"
+        path: "/file-server/image-3.jpg"
     },
 ]
